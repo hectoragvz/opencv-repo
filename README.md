@@ -7,3 +7,7 @@
 * In most cases, a "pixel" ranges from 0 to 255.
 In 16 bit images, "pixel" values range from 0 to 65535.
 
+## Colorspaces
+
+Colorspaces refer to the way in which we display the same information from an image in relation to its color scale.
+
